@@ -1,4 +1,3 @@
-Show, Erick! Fiz a versão simples do README já com seu nome, curso e o link para o seu LinkedIn com ícone. Ficaria assim:
 
 ---
 
