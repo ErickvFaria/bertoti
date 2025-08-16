@@ -1,4 +1,4 @@
-Perfeito! Então vou montar um **README simples** para o seu projeto "Engenharia de Software", já no formato ideal para colocar no GitHub:
+Show, Erick! Fiz a versão simples do README já com seu nome, curso e o link para o seu LinkedIn com ícone. Ficaria assim:
 
 ---
 
@@ -26,4 +26,12 @@ Este repositório tem como finalidade armazenar e organizar os códigos e ativid
 
 ---
 
-Quer que eu adicione também uma parte com **autor (seu nome)** no final, como assinatura do trabalho?
+## 👨‍🎓 Autor
+
+**Erick Vinícius de Faria**
+Curso: Banco de Dados – 2º semestre
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/érick-vinícius-79193b253)
+
+---
+
