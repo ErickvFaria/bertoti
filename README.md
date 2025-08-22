@@ -52,4 +52,5 @@ O código tem um **ciclo de vida**, que exige atenção desde a criação até s
 
 👨‍🎓 Autor
 Erick Vinícius de Faria
+
 Curso: Banco de Dados – 2º semestre
