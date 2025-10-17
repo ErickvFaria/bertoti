@@ -40,7 +40,7 @@ O código tem um **ciclo de vida**, que exige atenção desde a criação até s
 
 ---
 
-## 🌐 Intangível
+## 4 - 🌐 Intangível
 
 - O **front-end** é apenas a ponta do iceberg.  
 - Há custos de operação e sustentação de plataforma.  
