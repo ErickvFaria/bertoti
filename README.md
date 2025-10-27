@@ -92,9 +92,8 @@ Optar por ferramentas antigas para economizar licenças leva a altos custos de m
 ### 📄 Descrição
 O diagrama a seguir representa a relação entre as classes **Fazenda**, **Humano** e **Ovelha**, conforme desenvolvido na atividade prática da disciplina.
 
-<p align="center">
-  <img src="https://github.com/ErickvFaria/bertoti/blob/main/UML_relacionamento.png?raw=true" alt="Diagrama UML de Relacionamento" width="600"/>
-</p>
+[Ver diagrama UML de relacionamento](https://github.com/ErickvFaria/bertoti/blob/main/UML_relacionamento.png)
+
 
 ---
 
