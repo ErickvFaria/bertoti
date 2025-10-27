@@ -80,7 +80,8 @@ Optar por ferramentas antigas para economizar licenças leva a altos custos de m
 
 ---
 
-## 4 Classe UML upado nas documentações.
+## 4 Classe UML upado nas documentações. ![Diagrama UML de relacionamento](https://github.com/ErickvFaria/bertoti/blob/main/UML_relacionamento.png)
+
 
 
 👨‍🎓 Autor
